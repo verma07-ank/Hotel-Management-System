@@ -15,7 +15,7 @@ User can give check-in and check-out date and according to that room price chang
 Getting Started: Created maven project in Spring Tool Suite and started project. 
 Used MySql as database and created tables according to project.
 Implemented connection between Java application and MySql database using Spring framework.
-Coded HTMl and CSS pages using Angular framework in Visual Studio Code. Added Spring boot to build auto-configurations. 
+Coded HTML and CSS pages using Angular framework in Visual Studio Code. Added Spring boot to build auto-configurations. 
 Initialised Git and used GitHub for version control management.
 
 Usage: User need to run project in spring tool suite IDE. User need to run project in visual studio code editor using npm start command. 
